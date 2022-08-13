@@ -1,0 +1,133 @@
+*, html {
+	font: 13px/1.7em "Open Sans", "trebuchet ms", arial, sans-serif;
+}
+body {
+	padding-bottom: 30px;
+}
+
+.content {
+	-webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+}
+
+@media (min-width: 1200px) {
+  	.content, .footer {
+		width: 1000px;
+		padding: 0px 5px 15px;
+	}
+
+	.shortcuts a {
+		width: 150px;
+	}
+}
+
+.shortcuts {
+	text-align: center;
+}
+	
+
+.theme-dropdown .dropdown-menu {
+	position: static;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+	margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+	width: auto;
+}
+
+.panel, .panel-heading, .form-control, .btn, .breadcrumb,
+.label, .alert, blockquote, .nav-tabs li a {
+	border-radius: 0;
+}
+
+.page-header {
+	border-bottom: 1px dotted #CCC;
+	border-radius: 0;
+}
+
+.table-light-dark > thead > tr > th  {
+  font-size: 0.8em;
+  padding: 0.4em;
+  color: #603913;
+
+  
+} 
+
+.table-light-dark > tbody > tr > td {
+  color: #333333;
+  padding: 0.2em 0.4em;
+  font-size: 0.9em;
+
+  line-height: 22px; 
+  vertical-align: middle;
+}
+
+
+.table-light-dark > tfoot > tr > th  {
+  font-size: 0.8em;
+  padding: 0.4em;
+  color: #603913;
+  font-weight: bold;
+  text-align: center;
+
+  background-image: -webkit-linear-gradient(top, #fff 0%, #f8f8f8 100%);
+  background-image:      -o-linear-gradient(top, #fff 0%, #f8f8f8 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f8f8f8));
+  background-image:         linear-gradient(to bottom, #fff 0%, #f8f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff8f8f8', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  
+} 
+
+.navbar {
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+
+.borleft-green {
+	border-left:5px solid #5cb85c;
+	padding:5px;
+}
+
+.borleft-yellow {
+	border-left:5px solid #f0ad4e;
+	padding:5px;
+}
+
+.borleft-red {
+	border-left:5px solid #d9534f;
+	padding:5px;
+}
+
+.borleft-blue {
+	border-left:5px solid #5bc0de;
+	padding:5px;
+}
+
+hr.line11 {
+	height: 6px;
+	background: url(../img/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
+hr.line13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+hr.line14 {
+	height: 10px;
+	border: 0;
+	margin: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.control-label {
+	font-weight: normal;
+}
