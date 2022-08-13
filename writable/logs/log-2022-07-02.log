@@ -1,0 +1,40 @@
+CRITICAL - 2022-07-02 14:45:36 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Views\admin\siswa\index.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 54, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\Hendri\\Xampp...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/siswa/ind...', Array, true)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(361): view('admin/siswa/ind...', Array)
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->students()
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-02 14:52:07 --> Undefined property: stdClass::$kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Views\admin\siswa\index.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 59, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\Hendri\\Xampp...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/siswa/ind...', Array, true)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(361): view('admin/siswa/ind...', Array)
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->students()
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-02 17:07:29 --> syntax error, unexpected 'class' (T_CLASS), expecting ';' or ','
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/presensi/...', Array, true)
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(520): view('admin/presensi/...', Array)
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi()
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-02 17:07:44 --> syntax error, unexpected 'class' (T_CLASS), expecting ';' or ','
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/presensi/...', Array, true)
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(520): view('admin/presensi/...', Array)
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi()
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

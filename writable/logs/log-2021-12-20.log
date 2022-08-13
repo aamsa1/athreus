@@ -1,0 +1,83 @@
+CRITICAL - 2021-12-20 08:46:28 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\layout\navbar\student.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('layout/navbar/s...', NULL, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\presensi\index.php(3): CodeIgniter\View\View->include('layout/navbar/s...')
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/presensi/...', Array, true)
+#8 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(89): view('siswa/presensi/...', Array)
+#9 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->presensi()
+#10 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#11 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-20 08:48:40 --> Trying to get property 'tgl_event' of non-object
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(219): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 219, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->izin('d0RYSElubjk1SUp...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-20 09:00:00 --> Undefined variable: list_izin
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\presensi\list-izin.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/presensi/...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(765): view('admin/presensi/...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->listpermohonan('NlVVUjA4QlFGUHd...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-20 09:00:09 --> Undefined variable: list_izin
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\presensi\list-izin.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/presensi/...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(765): view('admin/presensi/...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->listpermohonan('NlVVUjA4QlFGUHd...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2021-12-20 09:10:23 --> Unknown column 'nno_event' in 'where clause'
+CRITICAL - 2021-12-20 09:10:23 --> Unknown column 'nno_event' in 'where clause'
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `absen` ...', 0)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `absen` ...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `absen` ...')
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1901): CodeIgniter\Database\BaseConnection->query('UPDATE `absen` ...', Array, false)
+#4 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\BaseModel.php(865): CodeIgniter\Model->doUpdate(NULL, Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#7 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(780): CodeIgniter\Model->update()
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->izinkan()
+#9 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2021-12-20 09:10:36 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(792): redirect('admin/listpermo...')
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->izinkan()
+#4 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-20 13:24:23 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\layout\navbar\student.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('layout/navbar/s...', NULL, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\presensi\index.php(3): CodeIgniter\View\View->include('layout/navbar/s...')
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/presensi/...', Array, true)
+#8 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(89): view('siswa/presensi/...', Array)
+#9 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->presensi()
+#10 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#11 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}

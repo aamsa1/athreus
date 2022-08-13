@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1657099854;_ci_previous_url|s:58:"https://192.168.1.113/ci4-presensiqr/public/admin/presensi";email|s:15:"admin@gmail.com";nama|s:3:"Aui";role|s:1:"1";pesan|s:274:"
+                <script>
+                   Swal.fire({
+                        icon: 'success',
+                        title: 'Berhasil!',
+                        text: 'Data Berhasil Dihapus',
+                        })
+                </script>
+                ";__ci_vars|a:1:{s:5:"pesan";s:3:"old";}

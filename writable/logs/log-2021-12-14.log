@@ -1,0 +1,86 @@
+CRITICAL - 2021-12-14 08:28:52 --> Undefined variable: kelas_list
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\kelas\index.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/kelas/ind...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(46): view('admin/kelas/ind...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->classes()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-14 08:51:05 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(83): redirect('admin/classes')
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addclass_()
+#4 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-14 09:12:41 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\admin\index.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 62, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/admin/ind...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(46): view('admin/admin/ind...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->admlist()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-14 22:08:25 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\admin\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/admin/pro...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(46): view('admin/admin/pro...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->profile()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-14 22:18:18 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\siswa\index.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/siswa/ind...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(278): view('admin/siswa/ind...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->students()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-14 22:18:29 --> Undefined property: CodeIgniter\View\View::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\siswa\index.php(130): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 130, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/siswa/ind...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(278): view('admin/siswa/ind...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->students()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-14 22:19:00 --> Undefined property: CodeIgniter\View\View::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\siswa\index.php(130): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 130, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/siswa/ind...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(279): view('admin/siswa/ind...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->students()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-14 22:29:22 --> Undefined property: CodeIgniter\View\View::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\siswa\index.php(55): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/siswa/ind...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(279): view('admin/siswa/ind...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->students()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

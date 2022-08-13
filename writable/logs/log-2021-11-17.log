@@ -1,0 +1,44 @@
+CRITICAL - 2021-11-17 03:01:56 --> Call to a member function get() on null
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('auth/index', Array, true)
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Auth.php(9): view('auth/index')
+#4 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-17 03:02:27 --> Undefined variable: login_registre
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\auth\index.php(294): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 294, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('auth/index', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Auth.php(9): view('auth/index')
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2021-11-17 03:25:32 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2021-11-17 03:25:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Model.php(723): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Models\AdminModel.php(16): CodeIgniter\Model->__call('get', Array)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Auth.php(29): App\Models\AdminModel->getByEmail(NULL)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-17 03:25:32 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\xampp\htdocs\ci4-presensiqr\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Views\errors\html\error_exception.php(96): print_r(Object(App\Controllers\Auth), true)
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseExce
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

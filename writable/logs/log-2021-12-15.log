@@ -1,0 +1,18 @@
+CRITICAL - 2021-12-15 15:16:33 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\layout\navbar\admin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('layout/navbar/a...', NULL, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\admin\index.php(3): CodeIgniter\View\View->include('layout/navbar/a...')
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/admin/ind...', Array, true)
+#8 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(56): view('admin/admin/ind...', Array)
+#9 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->admlist()
+#10 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-15 20:42:25 --> Cannot declare class Ciqrcode, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
