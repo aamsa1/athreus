@@ -1,0 +1,760 @@
+CRITICAL - 2021-12-16 09:43:39 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:37 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:38 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:39 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:39 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:39 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:39 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:40 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:40 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:40 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:40 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:40 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:44:40 --> Class 'Ciqrcode' not found
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 09:52:56 --> Call to undefined function no_event()
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/presensi/...', Array, true)
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(452): view('admin/presensi/...', Array)
+#4 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi()
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-16 10:02:34 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/IyOLvBVfgkeq2Urs.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:05:00 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/LYy7Po0dHi3fKgQq.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:06:16 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/GnkrRx5IwTzU7eMd.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:06:29 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/BcvqPME8wJU1CKIF.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:07:27 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/G2oguZ1qxKiMPmRB.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:07:35 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/9p610iKWzI7sLoE2.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:07:48 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/dtJVAPXf5Il07xwj.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:07:53 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/etymrfIx8dFOv5sg.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:08:02 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/JTd4bor1XFR9P8NI.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:08:31 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/w6Bu9nOZHY3LfAQe.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:09:16 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ya1hfoMFLjSTYXRm.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:0...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'H', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(476): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:22:06 --> Undefined property: App\Controllers\Admin::$ciqrcode
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(486): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 486, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:22:35 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:2...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(494): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:25:04 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:2...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(494): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:25:07 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:2...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(494): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:35:59 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:3...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(494): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:42:47 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:4...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(494): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:44:12 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:4...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(494): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:46:15 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:4...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(499): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:47:54 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/ZHFCdWFvVm5zcWE3aktKY24zWUhsdz09.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:4...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(499): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 10:53:55 --> file_put_contents(C:\xampp\htdocs\ci4-presensiqr\public\application/logs/5a48464364574676566d357a63574533616b744b5932347a57556873647a3039.png-errors.txt): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrtools.php(106): file_put_contents('C:\\xampp\\htdocs...', '2021-12-16 10:5...', 8)
+#2 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(498): QRtools::log('C:\\xampp\\htdocs...', 'file_put_conten...')
+#3 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\qrcode\qrencode.php(286): QRencode->encodePNG('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Libraries\Ciqrcode.php(105): QRcode::png('ZHFCdWFvVm5zcWE...', 'C:\\xampp\\htdocs...', 'L', 10, 2)
+#5 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(502): Ciqrcode->generate(Array)
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->addpresensi_()
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-16 11:55:15 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->showpresensi('ZHFCdWFvVm5zcWE...')
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 11:55:57 --> Object of class stdClass could not be converted to string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-16 11:59:09 --> Object of class stdClass could not be converted to string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-16 12:06:22 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:27 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:32 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:37 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:42 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:47 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:52 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:06:57 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:07:02 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:07:07 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-16 12:07:12 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(580): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 580, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:17 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(580): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 580, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:22 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(580): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 580, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:27 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(581): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 581, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:32 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:37 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:42 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:47 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:52 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:07:57 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:02 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:07 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:12 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:17 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:22 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:27 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:32 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:37 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:42 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:47 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:52 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:08:57 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:02 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:07 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:12 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:17 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:22 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:27 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:32 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:37 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:42 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:47 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:52 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:09:57 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:02 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:07 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:12 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:17 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:22 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:27 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 584, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 12:10:32 --> Call to undefined method App\Models\KelasModel::result
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(584): CodeIgniter\Model->__call('result', Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 18:37:38 --> Trying to get property 'qr_event' of non-object
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\admin\presensi\index.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 86, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/presensi/...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(452): view('admin/presensi/...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->presensi()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-16 18:52:39 --> Undefined property: CodeIgniter\View\View::$db
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\profile.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 53, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/profile', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(42): view('siswa/profile', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->profile()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-16 18:52:49 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\profile.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 112, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/profile', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(42): view('siswa/profile', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->profile()
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-16 19:37:41 --> Undefined variable: event
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\presensi\show-masuk.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/presensi/...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(97): view('siswa/presensi/...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('ZHFCdWFvVm5zcWE...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-16 19:52:37 --> Trying to get property 'absen_masuk' of non-object
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\presensi\show-keluar.php(107): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 107, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/presensi/...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(142): view('siswa/presensi/...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenkeluar('ZHFCdWFvVm5zcWE...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-16 20:18:56 --> Undefined property: CodeIgniter\View\View::$uri
+#0 C:\xampp\htdocs\ci4-presensiqr\app\Views\siswa\presensi\izin.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('siswa/presensi/...', Array, true)
+#4 C:\xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(192): view('siswa/presensi/...', Array)
+#5 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->izin('ZHFCdWFvVm5zcWE...')
+#6 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#7 C:\xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

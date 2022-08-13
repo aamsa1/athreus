@@ -1,0 +1,257 @@
+CRITICAL - 2022-07-05 15:36:04 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:09 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:14 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:22 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:27 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:32 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:37 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:42 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:47 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:52 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:36:57 --> Undefined variable: kelas_siswa
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(668): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 668, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->belum_absen_masuk()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:04 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:09 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:13 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:19 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:23 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:28 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:33 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:38 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:44 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:49 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:54 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:41:58 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:42:03 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:42:34 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 15:42:40 --> Undefined property: stdClass::$kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Hendri\\Xampp...', 625, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->sudah_absen()
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:17:47 --> Undefined variable: kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Views\admin\dashboard.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 47, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\Hendri\\Xampp...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/dashboard', Array, true)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(44): view('admin/dashboard', Array)
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 16:19:38 --> Undefined variable: kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Views\admin\dashboard.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 47, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\Hendri\\Xampp...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/dashboard', Array, true)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(44): view('admin/dashboard', Array)
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 16:21:23 --> Undefined variable: kode_kelas
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Views\admin\dashboard.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Hendri\\Xampp...', 33, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\Hendri\\Xampp...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/dashboard', Array, true)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Admin.php(44): view('admin/dashboard', Array)
+#5 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#6 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 23:24:31 --> Trying to get property 'tgl_event' of non-object
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(114): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Hendri\\Xampp...', 114, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('MjRma2RYK281U3J...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 23:24:41 --> Trying to get property 'tgl_event' of non-object
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(114): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Hendri\\Xampp...', 114, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('MjRma2RYK281U3J...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 23:25:29 --> Trying to get property 'sampai_jam' of non-object
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(115): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Hendri\\Xampp...', 115, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('MjRma2RYK281U3J...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 23:25:50 --> Trying to get property 'tgl_event' of non-object
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(114): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Hendri\\Xampp...', 114, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('MjRma2RYK281U3J...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 23:27:01 --> Trying to get property 'tgl_event' of non-object
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(114): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Hendri\\Xampp...', 114, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('MjRma2RYK281U3J...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 23:29:12 --> Trying to get property 'tgl_event' of non-object
+#0 C:\Hendri\Xampp\htdocs\ci4-presensiqr\app\Controllers\Students.php(114): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Hendri\\Xampp...', 114, Array)
+#1 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Students->absenmasuk('MjRma2RYK281U3J...')
+#2 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+#3 C:\Hendri\Xampp\htdocs\ci4-presensiqr\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Hendri\Xampp\htdocs\ci4-presensiqr\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
