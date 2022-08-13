@@ -1,0 +1,64 @@
+*, html {
+	font: 13px/1.7em "Open Sans", "trebuchet ms", arial, sans-serif;
+}
+body {
+	padding-bottom: 30px;
+}
+
+@media (min-width: 1200px) {
+  	.content {
+		width: 400px;
+		padding: 0px 5px 15px;
+	}
+
+	.shortcuts {
+		text-align: center;
+	}
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+.btn {
+	border-radius: 0px;
+}
+
+.borleft-green {
+	border-left:5px solid #5cb85c;
+	padding:5px;
+}
+
+.borleft-yellow {
+	border-left:5px solid #f0ad4e;
+	padding:5px;
+}
+
+.borleft-red {
+	border-left:5px solid #d9534f;
+	padding:5px;
+}
+
+.borleft-blue {
+	border-left:5px solid #5bc0de;
+	padding:5px;
+}
+
+hr.line11 {
+	height: 6px;
+	background: url(../img/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
+hr.line13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+hr.line14 {
+	height: 10px;
+	border: 0;
+	margin: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+

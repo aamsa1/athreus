@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.table {
+  font: 11px/24px Verdana, Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  margin:0 auto;
+}
+.table th {
+  border: 1px solid #333;
+  padding: 0 0.5em;
+  text-align: center;
+  background-color:#ccc;
+}
+.table td {
+  border: 1px solid #333;
+  padding: 0 0.5em;
+  background-color:#fff;
+}
+h1 {
+  color:#003300;
+  font:22px "Trebuchet MS";
+  text-align:center;
+}
+
+h4 {
+  color:#003300;
+  font-size: 12px;
+  text-align:center;
+}
